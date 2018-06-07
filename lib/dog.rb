@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
+  puts "#{bark}"
 
 end
 
-puts "#{bark}"
