@@ -1,4 +1,4 @@
 # person.rb
 class person
-  
-end 
+  def
+end
