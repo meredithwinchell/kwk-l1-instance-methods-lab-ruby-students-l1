@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
-  def bark = "#{bark}"
+  def bark
   end
 
 end
