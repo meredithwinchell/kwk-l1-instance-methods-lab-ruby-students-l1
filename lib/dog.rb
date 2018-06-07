@@ -2,3 +2,5 @@
 class Dog
 
 end
+
+puts "#{bark}"
